@@ -1,0 +1,2 @@
+# No external third-party packages required.
+# All scripts in this project rely solely on Python's built-in standard library.
